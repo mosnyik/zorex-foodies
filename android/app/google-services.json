@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1083029270039",
+    "project_id": "cliniklix",
+    "storage_bucket": "cliniklix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083029270039:android:048c55de6e800ee7fe3652",
+        "android_client_info": {
+          "package_name": "com.zorextech.cliniklinew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083029270039-nkkt3m4dauvcitcb619fe52l7fp0kceg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkfpgKWt3VGxp06Aagw-STvg-9mC4nv7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083029270039-nkkt3m4dauvcitcb619fe52l7fp0kceg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083029270039:android:10d24582e71c1ad4fe3652",
+        "android_client_info": {
+          "package_name": "com.zorextech.cliniklix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083029270039-nkkt3m4dauvcitcb619fe52l7fp0kceg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkfpgKWt3VGxp06Aagw-STvg-9mC4nv7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083029270039-nkkt3m4dauvcitcb619fe52l7fp0kceg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
